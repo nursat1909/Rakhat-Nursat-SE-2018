@@ -1,5 +1,5 @@
-# Rakhat-Nursat-SE-2018
+# Rakhat-Nursat-SE-2018 Database of University
 
-# Database of University
+
 
 ![ERD](University.png)
